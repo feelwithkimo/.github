@@ -10,7 +10,7 @@ Kimo requires access to your device’s camera to detect hand gestures. All imag
 
 ### 3. **Third-Party Services**
 
-FenScan does **not use** any third-party analytics, advertising networks, or tracking technologies.
+Kimo does **not use** any third-party analytics, advertising networks, or tracking technologies.
 
 ### 4. **Changes to This Policy**
 
@@ -25,6 +25,6 @@ For any questions or concerns about this Privacy Policy, please visit:
 
 <div align="right">
 
-<i>Effective Date: November 27, 2025</i>
+<i>Effective Date: November 28, 2025</i>
 
 </div>
